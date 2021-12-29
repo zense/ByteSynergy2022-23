@@ -850,7 +850,10 @@ section {
   padding: 60px 0;
   overflow: hidden;
 }
-
+.section2 {
+  padding: 0px 0;
+  overflow: hidden;
+}
 .section-bg {
   background-color: #1a1814;
 }
@@ -1641,7 +1644,7 @@ section {
 }
 
 .contact .info h4 {
-  padding: 0 0 0 60px;
+  padding: 0 0 0 0px;
   font-size: 18px;
   font-weight: 500;
   margin-bottom: 5px;
