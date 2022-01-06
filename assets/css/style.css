@@ -443,7 +443,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero2 {
   width: 100%;
   height: 20vh;
-  background: url("../img/elonMuskWeed.png") top center;   
+  background: url("../img/sunset_scenery_minimal_4k.jpg") top center;   
   background-size: cover;
   position: relative;
   padding: 0;
@@ -647,7 +647,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/elonMuskWeed.png") top center;
+  background: url("../img/sunset_scenery_minimal_4k.jpg") top center;
   background-size: cover;
   position: relative;
   padding: 0;
@@ -950,7 +950,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: url("../img/elonStare.jpg") center center;
+  background: url("../img/sunset_scenery_minimal_4k.jpg") center center;
   background-size: cover;
   position: relative;
   padding: 80px 0;
@@ -1252,7 +1252,7 @@ section {
 # Events
 --------------------------------------------------------------*/
 .events {
-  background: url(../img/elnMuskSmirk.png) center center no-repeat;
+  background: url(../img/sunset_scenery_minimal_4k.jpg) center center no-repeat;
   background-size: cover;
   position: relative;
 }
