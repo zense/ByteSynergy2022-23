@@ -894,6 +894,17 @@ section {
   padding-bottom: 40px;
 }
 
+.sponsor-list h1 {
+  text-align: center;
+}
+
+#sponsors .sponsor-list img {
+  height: 150px;
+  align-items: center;
+  /* max-width: 250px; */
+  object-fit: scale-down;
+}
+
 .section-title h2 {
   font-size: 14px;
   font-weight: 500;
@@ -1112,8 +1123,9 @@ section {
 .why-us .box {
   padding: 50px 30px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  margin-top: 25px;
   transition: all ease-in-out 0.21s;
-  background: #000000;
+  background: #2E038C;
 }
 
 .why-us .box span {
