@@ -898,6 +898,28 @@ section {
   text-align: center;
 }
 
+.sponsor-list .box {
+  position: relative;
+  transition-delay: 1s;
+}
+
+.sponsor-list .box .faded-text {
+  position: absolute;
+  top: 15%;
+  left: 15%;
+  color: rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.sponsor-list .box:hover img {
+  opacity: 0.7;
+}
+
+.sponsor-list .box:hover .faded-text {
+  color: #fff;
+  background-color: rgba(0, 0, 0, 1);
+}
+
 #sponsors .sponsor-list img {
   height: 150px;
   align-items: center;
@@ -1075,7 +1097,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .about .content p:last-child {
@@ -1115,7 +1137,6 @@ section {
   margin: 0;
   padding: 0;
 }
-
 
 /*--------------------------------------------------------------
 # Why Us
