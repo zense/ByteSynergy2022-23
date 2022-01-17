@@ -1163,7 +1163,7 @@ section {
   color: #FFFFFF;
 }
 
-.why-us .box h4 {
+.why-us .box h2 {
   font-size: 24px;
   font-weight: 600;
   padding: 0;
@@ -1171,23 +1171,25 @@ section {
   color: #000000;
 }
 
-.why-us .box p {
+.why-us .box p h2{
   color: #aaaaaa;
   font-size: 15px;
   margin: 0;
   padding: 0;
 }
 
-.why-us .box:hover {
+.why-us .box:hover  {
   background: #040030;
+  color: #fff;
   padding: 30px 30px 70px 30px;
   box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.18);
   color: #ffffff;
 }
 
-.why-us .box:hover span, .why-us .box:hover h4, .why-us .box:hover p {
+.why-us .box:hover span, .why-us .box:hover h2, .why-us .box:hover p {
   color: #fff;
 }
+
 
 /*--------------------------------------------------------------
 # Menu Section
