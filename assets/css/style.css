@@ -1036,7 +1036,6 @@ section {
 
 .about .about-img img {
   max-width: 100%;
-  border: 4px solid rgba(255, 255, 255, 0.2);
   position: relative;
 }
 
@@ -1048,8 +1047,6 @@ section {
   height: 60px;
   z-index: 1;
   content: '';
-  border-left: 5px solid #FFFFFF;
-  border-top: 5px solid #FFFFFF;
   transition: .5s;
 }
 
@@ -1061,8 +1058,6 @@ section {
   height: 60px;
   z-index: 2;
   content: '';
-  border-right: 5px solid #FFFFFF;
-  border-bottom: 5px solid #FFFFFF;
   transition: .5s;
 }
 
