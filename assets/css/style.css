@@ -599,6 +599,7 @@ section .container {
 .testimonials .testimonial-item p {
   font-style: bold;
   font-size: 50px;
+  text-align: center;
   margin: 0 15px 0 15px;
   padding: 20px 20px 60px 20px;
   background: rgba(255, 255, 255, 0.1);
